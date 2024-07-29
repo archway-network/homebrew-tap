@@ -1,5 +1,5 @@
 class Archway < Formula
-  desc "The Archway Network smart contracts runtime"
+  desc "The Archway Network smart contracts protocol runtime"
   homepage "https://archway.io"
   license "GPL-2.0-only"
 
