@@ -20,7 +20,7 @@ class Archway < Formula
       bin.install "archwayd"
     end
 
-    generate_completions_from_executable(bin/"archwayd", "completion", shell_parameter_format: :flag, shells: [:zsh])
+    generate_completions_from_executable(bin/"archwayd", "completion", base_name: "archwayd", shell_parameter_format: :flag, shells: [:zsh])
   end
 
   test do
