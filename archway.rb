@@ -1,8 +1,8 @@
 class Archway < Formula
   desc "Incentivized CosmWasm smart contracts blockchain runtime"
   homepage "https://archway.io"
-  url "https://github.com/archway-network/archway/releases/download/v8.0.0/archwayd_darwin_all.zip"
-  sha256 "a13526c11bf5d0464a08812721d484c667021dd30a8605592473b9724a0a6129"
+  url "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_darwin_all.zip"
+  sha256 "89281decf4a861d7807fc8ca5b724d12d23cb99c17957f0bca98de16641af475"
   license "GPL-2.0-only"
 
   head do
